@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "132382128830",
+    "project_id": "ldsw-catalogo-peliculas-9da81",
+    "storage_bucket": "ldsw-catalogo-peliculas-9da81.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132382128830:android:2f804d574f20b433e9bcef",
+        "android_client_info": {
+          "package_name": "com.example.ldsw_catalogo_peliculas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgwWc8RIOUTWS-fYg6T4-yensUArIDxlQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
